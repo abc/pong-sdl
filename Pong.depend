@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1412550243 source:c:\users\alastair\documents\projects\pong\pong.cpp
+	<SDL/SDL.h>
+
